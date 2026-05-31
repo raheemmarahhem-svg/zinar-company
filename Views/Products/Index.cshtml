@@ -1,0 +1,48 @@
+@model IEnumerable<ZinarCompany.Models.Product>
+@{
+    ViewData["Title"] = "Product";
+}
+
+<div class="hero">
+    <h1 class="hero-title">Product</h1>
+    
+</div>
+@if (User.IsInRole("Admin"))
+{
+    <a asp-action="Create" class="btn btn-success mb-3">
+        + Add Product
+    </a>
+}
+<div class="product-grid">
+@foreach (var product in Model)
+{
+        <div class="product-card">
+            <img src="@product.ImageUrl"
+                 alt="@product.Name"
+                 class="product-image" />
+            <h3>@product.Name</h3>
+            <p>@product.Description</p>
+
+            <a class="btn btn-primary"
+               asp-action="Details"
+               asp-route-id="@product.Id">
+                View Details
+            </a>
+            @if (User.IsInRole("Admin"))
+            {
+                <div class="mt-2 d-flex gap-2">
+                    <a class="btn btn-warning btn-sm"
+                       asp-action="Edit"
+                       asp-route-id="@product.Id">
+                        Edit
+                    </a>
+
+                    <a class="btn btn-danger btn-sm"
+                       asp-action="Delete"
+                       asp-route-id="@product.Id">
+                        Delete
+                    </a>
+                </div>
+            }
+        </div>
+}

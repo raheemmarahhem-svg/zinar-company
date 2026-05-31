@@ -1,0 +1,83 @@
+﻿@model ZinarCompany.Models.Product
+
+@{
+    var whatsappNumber = "9647504506608"; // Duhok WhatsApp (no +, no spaces)
+    var productName = Model?.Name ?? "";
+    var message = $"Hello, I want to ask about: {productName}";
+    var encodedMessage = System.Net.WebUtility.UrlEncode(message);
+
+    var whatsappLink = $"https://wa.me/{whatsappNumber}?text={encodedMessage}";
+    var callLink = $"tel:07504506608"; // Duhok call number (local format)
+}
+
+<div class="container py-5">
+    <nav aria-label="breadcrumb" class="mb-4">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item">
+                <a asp-controller="Products" asp-action="Shop">Shop</a>
+            </li>
+            <li class="breadcrumb-item active" aria-current="page">@Model.Name</li>
+        </ol>
+    </nav>
+
+    <div class="row g-4 align-items-start">
+
+        <div class="col-lg-6">
+            <div class="details-media">
+                <img src="@Model.ImageUrl" class="img-fluid" alt="@Model.Name" />
+            </div>
+        </div>
+
+        <!-- RIGHT: Info -->
+        <div class="col-lg-6">
+            <div class="details-media">
+                <h1 class="details-title">@Model.Name</h1>
+
+                <div class="details-meta mb-3">
+                    <span class="badge rounded-pill text-bg-light">@Model.Category?.Name</span>
+                </div>
+
+                <p class="details-desc">
+                    @Model.Description
+                </p>
+
+                <hr class="my-4" />
+
+                <h5 class="mb-3">Specifications</h5>
+
+                <ul class="details-specs">
+                    <li><strong>Material:</strong> High quality aluminum profiles</li>
+                    <li><strong>Usage:</strong> Residential and commercial buildings</li>
+                    <li><strong>Design:</strong> Modern slim frame system</li>
+                    <li><strong>Finish:</strong> Powder coated / anodized</li>
+                    <li><strong>Maintenance:</strong> Easy to clean</li>
+                </ul>
+
+                <div class="mt-4 d-flex gap-2 flex-wrap">
+                    <a class="btn btn-success px-4"
+                       href="@whatsappLink"
+                       target="_blank"
+                       rel="noopener">
+                        WhatsApp
+                    </a>
+
+                    <a class="btn btn-outline-dark px-4"
+                       href="@callLink">
+                        Call Us
+                    </a>
+                    <a class="btn btn-success"
+                       asp-controller="Quote"
+                       asp-action="Add"
+                       asp-route-productId="@Model.Id">
+                        Add to Quote
+                    </a>
+                    <a class="btn btn-outline-secondary px-4"
+                       asp-controller="Products"
+                       asp-action="Shop">
+                        Back to Shop
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

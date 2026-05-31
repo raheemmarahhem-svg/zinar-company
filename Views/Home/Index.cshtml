@@ -1,0 +1,69 @@
+@{
+    ViewData["Title"] = "Zinar Company – Home";
+}
+
+<!-- Squarespace-inspired HOME (design-only update) -->
+
+<section class="ss-hero" style="background-image:url('/images/hero.jpg');">
+    <div class="ss-hero__overlay"></div>
+    <div class="ss-hero__content">
+        <p class="ss-hero__kicker">ZINAR SLIDE SINCE 1972</p>
+        <h1 class="ss-hero__title">Trusted aluminium systems for generations</h1>
+    </div>
+</section>
+
+<section class="ss-section">
+    <div class="ss-container">
+        <div class="ss-section__header">
+            <h2 class="ss-section__title">Products</h2>
+        </div>
+
+        <!-- Home-only visual cards (no price, no cart actions) -->
+        <div class="ss-grid">
+            <a class="ss-card" asp-controller="Products" asp-action="Aluminum" aria-label="Doors & Windows">
+                <img class="ss-card__img" src="~/images/aluminum/doors-main2.jpg" alt="Doors and Windows" />
+                <div class="ss-card__body">
+                    <h3 class="ss-card__title">Doors &amp; Windows</h3>
+                </div>
+            </a>
+
+            <a class="ss-card" asp-controller="Products" asp-action="Sliding" aria-label="Sliding ALM">
+                <img class="ss-card__img" src="~/images/aluminum/sliding-main1.jpg" alt="Sliding systems" />
+                <div class="ss-card__body">
+                    <h3 class="ss-card__title">Sliding ALM</h3>
+                </div>
+            </a>
+
+            <a class="ss-card" asp-controller="Products" asp-action="Wood" aria-label="Wood">
+                <img class="ss-card__img" src="~/images/wood/wood-main1.jpg" alt="Wood products" />
+                <div class="ss-card__body">
+                    <h3 class="ss-card__title">Wood</h3>
+                </div>
+            </a>
+
+            <a class="ss-card" asp-controller="Products" asp-action="Facade" aria-label="Facade">
+                <img class="ss-card__img" src="~/images/aluminum/facade-main1.jpg" alt="Facade systems" />
+                <div class="ss-card__body">
+                    <h3 class="ss-card__title">Facade</h3>
+                </div>
+            </a>
+        </div>
+    </div>
+</section>
+
+<section class="ss-section ss-about-preview">
+    <div class="ss-container ss-two-col">
+        <div class="ss-two-col__media">
+            <img class="ss-about-img" src="~/images/about-preview.jpg" alt="Zinar Slide preview" />
+        </div>
+        <div class="ss-two-col__content">
+            <p class="ss-kicker">About</p>
+            <h2 class="ss-h2">Built on experience since 1972</h2>
+            <p class="ss-text">
+                Zinar Slide delivers reliable aluminium systems with a focus on precision, durability, and clean architectural finishes.
+                Our work is trusted by generations of builders and designers.
+            </p>
+            
+        </div>
+    </div>
+</section>

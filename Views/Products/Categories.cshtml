@@ -1,0 +1,20 @@
+﻿@model List<ZinarCompany.Models.Category>
+
+@{
+    ViewData["Title"] = "Catalog";
+}
+
+<div class="catalog-container">
+    <h2 class="catalog-title">Catalog</h2>
+
+   
+        @foreach (var c in Model)
+        {
+        <a class="catalog-item"
+           asp-controller="Products"
+           asp-action="Shop"
+           asp-route-categoryId="@c.Id">
+            @c.Name
+        </a>  
+        }
+    </div>

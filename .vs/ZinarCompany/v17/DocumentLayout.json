@@ -1,0 +1,1168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\services\\geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:services\\geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\controllers\\aichatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:controllers\\aichatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\models\\quoterequestitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:models\\quoterequestitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\zinarcompany.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:zinarcompany.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\models\\quoteitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:models\\quoteitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\controllers\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:controllers\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\models\\quoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:models\\quoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\viewcomponents\\quotebadgeviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:viewcomponents\\quotebadgeviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\viewmodels\\quotepagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:viewmodels\\quotepagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\views\\quote\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:views\\quote\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\viewmodels\\quotelinevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:viewmodels\\quotelinevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\models\\productoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:models\\productoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\views\\shared\\components\\quotebadge\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:views\\shared\\components\\quotebadge\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\migrations\\20260113193046_addquotetablesfinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:migrations\\20260113193046_addquotetablesfinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Golden\\Desktop\\Zinar_STEP1_HomeUpdated\\Zinar_Redesigned_final_FINAL\\Zinar_Redesigned_final\\Zinar_Redesigned\\ZinarCompany_SLIDING_FIXED\\Migrations\\20260113183323_CreateQuoteTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Golden\\Desktop\\Zinar_STEP1_HomeUpdated\\Zinar_Redesigned_final_FINAL\\Zinar_Redesigned_final\\Zinar_Redesigned\\ZinarCompany_SLIDING_FIXED\\Migrations\\20260113184538_CreateQuoteTables_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ZinarCompanyDb/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\views\\products\\facade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:views\\products\\facade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\views\\products\\aluminum.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:views\\products\\aluminum.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Golden\\Desktop\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ZinarCompanyDb/True/SqlTable/dbo.AspNetUserRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ZinarCompanyDb/True/SqlTable/dbo.AspNetRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\views\\products\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:views\\products\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\views\\products\\wood.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:views\\products\\wood.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\views\\products\\furniture.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:views\\products\\furniture.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\views\\products\\sliding.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:views\\products\\sliding.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\controllers\\productoptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:controllers\\productoptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\viewmodels\\shopviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:viewmodels\\shopviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Golden\\Desktop\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\views\\products\\categories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:views\\products\\categories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\views\\productoptions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:views\\productoptions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\views\\productoptions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:views\\productoptions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\views\\productoptions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:views\\productoptions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\views\\productoptions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:views\\productoptions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ZinarCompanyDb/True/SqlTable/dbo.ProductOptions.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ZinarCompanyDb/True/SqlTable/dbo.Categories.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\migrations\\20251231141457_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:migrations\\20251231141457_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\migrations\\20251231144254_addroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:migrations\\20251231144254_addroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\migrations\\20260113191216_createquotetablesreal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:migrations\\20260113191216_createquotetablesreal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\migrations\\20260114215431_addquotetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:migrations\\20260114215431_addquotetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\migrations\\20260114215011_addquoterequesttables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:migrations\\20260114215011_addquoterequesttables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\migrations\\20260114194929_addquoterequestitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:migrations\\20260114194929_addquoterequestitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\migrations\\20260114192355_addproductimageurlandshortdec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:migrations\\20260114192355_addproductimageurlandshortdec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|c:\\users\\golden\\desktop\\zinar_graduation_backup - copy\\zinarcompany_sliding_fixed\\migrations\\20260114173639_addquoteitemquantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24885CE3-06BA-2E2A-7911-63A0456F7AE0}|ZinarCompany.csproj|solutionrelative:migrations\\20260114173639_addquoteitemquantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-04T11:48:25.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeminiService.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Services\\GeminiService.cs",
+              "RelativeDocumentMoniker": "Services\\GeminiService.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Services\\GeminiService.cs",
+              "RelativeToolTip": "Services\\GeminiService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T20:00:03.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuoteRequestItem.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Models\\QuoteRequestItem.cs",
+              "RelativeDocumentMoniker": "Models\\QuoteRequestItem.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Models\\QuoteRequestItem.cs",
+              "RelativeToolTip": "Models\\QuoteRequestItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T19:46:10.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T20:58:39.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAiwN4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-31T15:21:40.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAOoGAAAAAAAAAAAAADgHAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-07T23:22:58.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-09T14:30:59.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AiChatController.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Controllers\\AiChatController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AiChatController.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Controllers\\AiChatController.cs",
+              "RelativeToolTip": "Controllers\\AiChatController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwBYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T20:01:27.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuoteRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Models\\QuoteRequest.cs",
+              "RelativeDocumentMoniker": "Models\\QuoteRequest.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Models\\QuoteRequest.cs",
+              "RelativeToolTip": "Models\\QuoteRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T13:10:21.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T20:29:42.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Quote\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Quote\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Quote\\Index.cshtml",
+              "RelativeToolTip": "Views\\Quote\\Index.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAuwJQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T13:16:19.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuoteController.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Controllers\\QuoteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QuoteController.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Controllers\\QuoteController.cs",
+              "RelativeToolTip": "Controllers\\QuoteController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAASwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T13:12:29.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ZinarCompany.csproj",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\ZinarCompany.csproj",
+              "RelativeDocumentMoniker": "ZinarCompany.csproj",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\ZinarCompany.csproj",
+              "RelativeToolTip": "ZinarCompany.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-14T17:05:26.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuoteItem.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Models\\QuoteItem.cs",
+              "RelativeDocumentMoniker": "Models\\QuoteItem.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Models\\QuoteItem.cs",
+              "RelativeToolTip": "Models\\QuoteItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T13:09:27.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T20:38:09.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20260114215431_AddQuoteTables.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Migrations\\20260114215431_AddQuoteTables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260114215431_AddQuoteTables.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Migrations\\20260114215431_AddQuoteTables.cs",
+              "RelativeToolTip": "Migrations\\20260114215431_AddQuoteTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T21:54:31.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T23:57:57.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20260114215011_AddQuoteRequestTables.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Migrations\\20260114215011_AddQuoteRequestTables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260114215011_AddQuoteRequestTables.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Migrations\\20260114215011_AddQuoteRequestTables.cs",
+              "RelativeToolTip": "Migrations\\20260114215011_AddQuoteRequestTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T21:50:11.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QuoteBadgeViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\ViewComponents\\QuoteBadgeViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\QuoteBadgeViewComponent.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\ViewComponents\\QuoteBadgeViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\QuoteBadgeViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T17:06:54.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QuotePageVM.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\ViewModels\\QuotePageVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\QuotePageVM.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\ViewModels\\QuotePageVM.cs",
+              "RelativeToolTip": "ViewModels\\QuotePageVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T20:07:32.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20260114194929_AddQuoteRequestItems.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Migrations\\20260114194929_AddQuoteRequestItems.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260114194929_AddQuoteRequestItems.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Migrations\\20260114194929_AddQuoteRequestItems.cs",
+              "RelativeToolTip": "Migrations\\20260114194929_AddQuoteRequestItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T19:49:30.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "QuoteLineVM.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\ViewModels\\QuoteLineVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\QuoteLineVM.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\ViewModels\\QuoteLineVM.cs",
+              "RelativeToolTip": "ViewModels\\QuoteLineVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T18:26:39.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20260114192355_AddProductImageUrlAndShortDec.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Migrations\\20260114192355_AddProductImageUrlAndShortDec.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260114192355_AddProductImageUrlAndShortDec.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Migrations\\20260114192355_AddProductImageUrlAndShortDec.cs",
+              "RelativeToolTip": "Migrations\\20260114192355_AddProductImageUrlAndShortDec.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T19:23:55.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductOption.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Models\\ProductOption.cs",
+              "RelativeDocumentMoniker": "Models\\ProductOption.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Models\\ProductOption.cs",
+              "RelativeToolTip": "Models\\ProductOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T20:24:43.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T12:55:05.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Shared\\Components\\QuoteBadge\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\QuoteBadge\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Shared\\Components\\QuoteBadge\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\QuoteBadge\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T17:10:34.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20260114173639_AddQuoteItemQuantity.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Migrations\\20260114173639_AddQuoteItemQuantity.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260114173639_AddQuoteItemQuantity.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Migrations\\20260114173639_AddQuoteItemQuantity.cs",
+              "RelativeToolTip": "Migrations\\20260114173639_AddQuoteItemQuantity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T17:36:40.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20260113193046_AddQuoteTablesFinal.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Migrations\\20260113193046_AddQuoteTablesFinal.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260113193046_AddQuoteTablesFinal.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Migrations\\20260113193046_AddQuoteTablesFinal.cs",
+              "RelativeToolTip": "Migrations\\20260113193046_AddQuoteTablesFinal.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T19:30:46.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20260113183323_CreateQuoteTables.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_STEP1_HomeUpdated\\Zinar_Redesigned_final_FINAL\\Zinar_Redesigned_final\\Zinar_Redesigned\\ZinarCompany_SLIDING_FIXED\\Migrations\\20260113183323_CreateQuoteTables.cs",
+              "RelativeDocumentMoniker": "..\\..\\Zinar_STEP1_HomeUpdated\\Zinar_Redesigned_final_FINAL\\Zinar_Redesigned_final\\Zinar_Redesigned\\ZinarCompany_SLIDING_FIXED\\Migrations\\20260113183323_CreateQuoteTables.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_STEP1_HomeUpdated\\Zinar_Redesigned_final_FINAL\\Zinar_Redesigned_final\\Zinar_Redesigned\\ZinarCompany_SLIDING_FIXED\\Migrations\\20260113183323_CreateQuoteTables.cs",
+              "RelativeToolTip": "..\\..\\Zinar_STEP1_HomeUpdated\\Zinar_Redesigned_final_FINAL\\Zinar_Redesigned_final\\Zinar_Redesigned\\ZinarCompany_SLIDING_FIXED\\Migrations\\20260113183323_CreateQuoteTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T18:33:23.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20260113191216_CreateQuoteTablesReal.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Migrations\\20260113191216_CreateQuoteTablesReal.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260113191216_CreateQuoteTablesReal.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Migrations\\20260113191216_CreateQuoteTablesReal.cs",
+              "RelativeToolTip": "Migrations\\20260113191216_CreateQuoteTablesReal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T19:12:17.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20260113184538_CreateQuoteTables_v2.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_STEP1_HomeUpdated\\Zinar_Redesigned_final_FINAL\\Zinar_Redesigned_final\\Zinar_Redesigned\\ZinarCompany_SLIDING_FIXED\\Migrations\\20260113184538_CreateQuoteTables_v2.cs",
+              "RelativeDocumentMoniker": "..\\..\\Zinar_STEP1_HomeUpdated\\Zinar_Redesigned_final_FINAL\\Zinar_Redesigned_final\\Zinar_Redesigned\\ZinarCompany_SLIDING_FIXED\\Migrations\\20260113184538_CreateQuoteTables_v2.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_STEP1_HomeUpdated\\Zinar_Redesigned_final_FINAL\\Zinar_Redesigned_final\\Zinar_Redesigned\\ZinarCompany_SLIDING_FIXED\\Migrations\\20260113184538_CreateQuoteTables_v2.cs",
+              "RelativeToolTip": "..\\..\\Zinar_STEP1_HomeUpdated\\Zinar_Redesigned_final_FINAL\\Zinar_Redesigned_final\\Zinar_Redesigned\\ZinarCompany_SLIDING_FIXED\\Migrations\\20260113184538_CreateQuoteTables_v2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T18:45:38.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T01:07:16.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "dbo.AspNetUsers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ZinarCompanyDb/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ZinarCompanyDb/True/SqlTable/dbo.AspNetUsers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-11T14:24:02.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Facade.cshtml",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Products\\Facade.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Facade.cshtml",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Products\\Facade.cshtml",
+              "RelativeToolTip": "Views\\Products\\Facade.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-10T01:55:07.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAIAwwE4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T12:39:02.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T13:18:20.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Aluminum.cshtml",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Products\\Aluminum.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Aluminum.cshtml",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Products\\Aluminum.cshtml",
+              "RelativeToolTip": "Views\\Products\\Aluminum.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-10T01:54:10Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-10T03:59:44.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "dbo.AspNetRoles.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ZinarCompanyDb/True/SqlTable/dbo.AspNetRoles.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ZinarCompanyDb/True/SqlTable/dbo.AspNetRoles.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-11T14:22:31.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "dbo.AspNetUserRoles.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ZinarCompanyDb/True/SqlTable/dbo.AspNetUserRoles.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ZinarCompanyDb/True/SqlTable/dbo.AspNetUserRoles.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-11T14:26:56.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "..\\..\\SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\SQLQuery1.sql",
+              "RelativeToolTip": "..\\..\\SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-11T15:01:15.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-08T21:54:12.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Shop.cshtml",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Products\\Shop.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Shop.cshtml",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Products\\Shop.cshtml",
+              "RelativeToolTip": "Views\\Products\\Shop.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T14:16:04.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T14:02:11.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Furniture.cshtml",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Products\\Furniture.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Furniture.cshtml",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Products\\Furniture.cshtml",
+              "RelativeToolTip": "Views\\Products\\Furniture.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-10T01:55:14.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Wood.cshtml",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Products\\Wood.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Wood.cshtml",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Products\\Wood.cshtml",
+              "RelativeToolTip": "Views\\Products\\Wood.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwDIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-10T01:55:29.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Sliding.cshtml",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Products\\Sliding.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Sliding.cshtml",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Products\\Sliding.cshtml",
+              "RelativeToolTip": "Views\\Products\\Sliding.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-10T01:55:22.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T00:55:35.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T00:27:40.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T15:19:12.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T00:14:47.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-31T13:55:09.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T17:20:27.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-08T17:25:41.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T00:52:12.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T00:55:58.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ProductOptionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Controllers\\ProductOptionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductOptionsController.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Controllers\\ProductOptionsController.cs",
+              "RelativeToolTip": "Controllers\\ProductOptionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T16:08:58.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T20:21:01.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T23:55:36.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SQLQuery2.sql",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\SQLQuery2.sql",
+              "RelativeDocumentMoniker": "..\\..\\SQLQuery2.sql",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\SQLQuery2.sql",
+              "RelativeToolTip": "..\\..\\SQLQuery2.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-08T00:56:28.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ShopViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\ViewModels\\ShopViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ShopViewModel.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\ViewModels\\ShopViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ShopViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T14:09:08.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Categories.cshtml",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Products\\Categories.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Categories.cshtml",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Products\\Categories.cshtml",
+              "RelativeToolTip": "Views\\Products\\Categories.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T22:47:35.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T14:21:22.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\ProductOptions\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductOptions\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\ProductOptions\\Create.cshtml",
+              "RelativeToolTip": "Views\\ProductOptions\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T00:37:46.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\ProductOptions\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductOptions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\ProductOptions\\Index.cshtml",
+              "RelativeToolTip": "Views\\ProductOptions\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-31T16:34:47.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\ProductOptions\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductOptions\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\ProductOptions\\Delete.cshtml",
+              "RelativeToolTip": "Views\\ProductOptions\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T02:37:02.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\ProductOptions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductOptions\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\ProductOptions\\Edit.cshtml",
+              "RelativeToolTip": "Views\\ProductOptions\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T01:50:34.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "dbo.ProductOptions.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ZinarCompanyDb/True/SqlTable/dbo.ProductOptions.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ZinarCompanyDb/True/SqlTable/dbo.ProductOptions.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-02T20:52:59.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20251231141457_AddIdentityTables.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Migrations\\20251231141457_AddIdentityTables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251231141457_AddIdentityTables.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Migrations\\20251231141457_AddIdentityTables.cs",
+              "RelativeToolTip": "Migrations\\20251231141457_AddIdentityTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T14:14:57.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-31T15:20:42.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20251231144254_AddRoles.cs",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Migrations\\20251231144254_AddRoles.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251231144254_AddRoles.cs",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Migrations\\20251231144254_AddRoles.cs",
+              "RelativeToolTip": "Migrations\\20251231144254_AddRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T14:42:54.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "dbo.Categories.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ZinarCompanyDb/True/SqlTable/dbo.Categories.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ZinarCompanyDb/True/SqlTable/dbo.Categories.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-30T16:18:51.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Golden\\Desktop\\Zinar_Graduation_Backup - Copy\\ZinarCompany_SLIDING_FIXED\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T20:06:55.279Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

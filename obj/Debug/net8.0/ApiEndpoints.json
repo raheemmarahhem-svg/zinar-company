@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ZinarCompany.Controllers.AiChatController",
+    "Method": "Chat",
+    "RelativePath": "api/ai/chat",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "ZinarCompany.Controllers.AiChatController\u002BChatReq",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

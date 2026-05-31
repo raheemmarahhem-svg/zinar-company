@@ -1,0 +1,149 @@
+﻿@model ZinarCompany.ViewModels.QuotePageVM
+
+@{
+    ViewData["Title"] = "Quote Cart";
+}
+
+<div class="container py-4">
+    <div class="quote-header mb-3">
+        <h2 class="mb-0">Quote Cart</h2>
+        <p class="text-muted mb-0">Add items and send a quote request — we’ll contact you on WhatsApp or phone.</p>
+    </div>
+
+    @* Success message *@
+    @if (TempData["QuoteSuccess"] != null)
+    {
+        <div class="alert alert-success d-flex align-items-center justify-content-between">
+            <div><i class="fa-solid fa-circle-check me-2"></i>@TempData["QuoteSuccess"]</div>
+        </div>
+    }
+
+    @* Validation message *@
+    @if (!ViewData.ModelState.IsValid)
+    {
+        <div class="alert alert-danger">
+            <i class="fa-solid fa-triangle-exclamation me-2"></i>
+            Please fill the required fields.
+        </div>
+    }
+
+    <div class="row g-4">
+        <!-- LEFT: Cart items -->
+        <div class="col-lg-8">
+            <div class="quote-card">
+                <div class="quote-card__head d-flex align-items-center justify-content-between">
+                    <h5 class="mb-0">Items</h5>
+
+                    @if (Model?.Lines != null && Model.Lines.Any())
+                    {
+                        <a class="btn btn-outline-danger btn-sm"
+                           asp-controller="Quote" asp-action="Clear">
+                            <i class="fa-solid fa-trash-can me-1"></i> Clear All
+                        </a>
+                    }
+                </div>
+
+                @if (Model?.Lines == null || !Model.Lines.Any())
+                {
+                    <div class="quote-empty">
+                        <i class="fa-solid fa-cart-shopping mb-2"></i>
+                        <div class="fw-semibold">Your quote cart is empty</div>
+                        <div class="text-muted">Go to Products and add items to request a quote.</div>
+
+                        <a class="btn btn-primary mt-3" asp-controller="Products" asp-action="Shop">
+                            <i class="fa-solid fa-bag-shopping me-2"></i> Browse Products
+                        </a>
+                    </div>
+                }
+                else
+                {
+                    <div class="quote-items">
+                        @foreach (var line in Model.Lines)
+                        {
+                            <div class="quote-item">
+                                <div class="quote-item__media">
+                                    <img src="@(string.IsNullOrWhiteSpace(line.ImageUrl) ? "/images/placeholder.png" : line.ImageUrl)"
+                                         alt="@line.ProductName"
+                                         onerror="this.src='/images/placeholder.png';" />
+                                </div>
+
+                                <div class="quote-item__info">
+                                    <div class="quote-item__title">@line.ProductName</div>
+                                    @if (!string.IsNullOrWhiteSpace(line.ShortDesc))
+                                    {
+                                        <div class="quote-item__desc">@line.ShortDesc</div>
+                                    }
+                                </div>
+
+                                <div class="quote-item__actions">
+                                    <div class="qty-control">
+                                        <a class="qty-btn"
+                                           asp-controller="Quote"
+                                           asp-action="Decrease"
+                                           asp-route-productId="@line.ProductId"
+                                           aria-label="Decrease quantity">
+                                            <i class="fa-solid fa-minus"></i>
+                                        </a>
+
+                                        <div class="qty-value">@line.Quantity</div>
+
+                                        <a class="qty-btn qty-btn--primary"
+                                           asp-controller="Quote"
+                                           asp-action="Increase"
+                                           asp-route-productId="@line.ProductId"
+                                           aria-label="Increase quantity">
+                                            <i class="fa-solid fa-plus"></i>
+                                        </a>
+                                    </div>
+
+                                    <a class="icon-btn"
+                                       asp-controller="Quote"
+                                       asp-action="Remove"
+                                       asp-route-productId="@line.ProductId"
+                                       title="Remove item"
+                                       aria-label="Remove item">
+                                        <i class="fa-solid fa-trash"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                }
+            </div>
+        </div>
+
+        <!-- RIGHT: Form -->
+        <div class="col-lg-4">
+            <div class="quote-form sticky-lg-top" style="top: 90px;">
+                <h5 class="mb-3">Send Quote Request</h5>
+
+                <form asp-controller="Quote" asp-action="Submit" method="post">
+                    @Html.AntiForgeryToken()
+
+                    <div class="mb-3">
+                        <label class="form-label">Full Name</label>
+                        <input class="form-control" name="FullName" value="@Model?.FullName" placeholder="Your name" />
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label">Phone</label>
+                        <input class="form-control" name="Phone" value="@Model?.Phone" placeholder="07xx xxx xxxx" />
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label">Notes (optional)</label>
+                        <textarea class="form-control" name="Notes" rows="4" placeholder="Sizes, color, details...">@Model?.Notes</textarea>
+                    </div>
+
+                    <button class="btn btn-primary w-100 quote-send-btn" type="submit">
+                        <i class="fa-solid fa-paper-plane me-2"></i> Send Quote
+                    </button>
+
+                    <div class="quote-form__hint mt-3">
+                        We will contact you on WhatsApp or phone to confirm details.
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

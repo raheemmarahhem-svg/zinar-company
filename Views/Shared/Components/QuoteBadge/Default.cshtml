@@ -1,0 +1,21 @@
+﻿@model int
+
+<a class="nav-link position-relative p-0 d-flex align-items-center justify-content-center"
+   asp-controller="Quote"
+   asp-action="Index"
+   style="width:42px;height:42px;border-radius:10px;border:1px solid #e5e5e5;background:white;">
+
+    <!-- Cart Icon (SVG) -->
+    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#222" viewBox="0 0 16 16">
+        <path d="M0 1.5A.5.5 0 0 1 .5 1H2a.5.5 0 0 1 .485.379L2.89 3H14.5a.5.5 0 0 1 .491.592l-1.5 8A.5.5 0 0 1 13 12H4a.5.5 0 0 1-.491-.408L2.01 3.607 1.61 2H.5a.5.5 0 0 1-.5-.5zM3.14 4l1.25 7h8.11l1.312-7H3.14z" />
+        <path d="M5.5 13a1 1 0 1 0 0 2 1 1 0 0 0 0-2zm7 0a1 1 0 1 0 0 2 1 1 0 0 0 0-2z" />
+    </svg>
+
+    @if (Model > 0)
+    {
+        <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger"
+              style="font-size:11px; min-width:18px; height:18px; display:flex; align-items:center; justify-content:center;">
+            @Model
+        </span>
+    }
+</a>

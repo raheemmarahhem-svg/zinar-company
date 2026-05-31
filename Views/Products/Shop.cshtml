@@ -1,0 +1,67 @@
+﻿@model ZinarCompany.ViewModels.ShopVM
+
+<div class="container mt-5">
+    <div class="row">
+
+        <!-- LEFT SIDEBAR -->
+        <div class="col-md-3 products-sidebar">
+            <h6 class="sidebar-title">Categories</h6>
+
+            <ul class="category-list">
+                <li>
+                    <a asp-controller="Products" asp-action="Shop"
+                       class="@(Model.CategoryId == null ? "active" : "")">
+                        All Products
+                    </a>
+                </li>
+
+                @foreach (var c in Model.Categories)
+                {
+                    <li>
+                        <a asp-controller="Products"
+                           asp-action="Shop"
+                           asp-route-categoryId="@c.Id"
+                           class="category-link @(Model.CategoryId == c.Id ? "active" : "")">
+                            @c.Name
+                        </a>
+                    </li>
+                }
+            </ul>
+        </div>
+
+        <!-- PRODUCTS GRID -->
+        <div class="col-md-9">
+@if (!Model.Products.Any())
+{
+                <div class="empty-state">
+                    <h5>No products in this category</h5>
+                    <p>Try another category or view all products.</p>
+
+                    <a asp-controller="Products" asp-action="Shop"
+                       class="btn btn-outline-dark btn-sm">
+                        View all products
+                    </a>
+                </div>
+}
+else
+{
+                <div class="row">
+                    @foreach (var product in Model.Products)
+                    {
+                        <div class="col-md-4 mb-4">
+                            <div class="card h-100">
+                                <img src="@product.ImageUrl" class="card-img-top" alt="@product.Name" />
+                                <div class="card-body">
+                                    <h6 class="card-title">@product.Name</h6>
+
+                                    <a asp-controller="Products" asp-action="Details"
+                                       asp-route-id="@product.Id"
+                                       class="btn btn-sm btn-outline-dark">
+                                        View Details
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+}

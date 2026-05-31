@@ -1,0 +1,51 @@
+﻿@model IEnumerable<ZinarCompany.Models.ProductOption>
+
+@{
+    ViewData["Title"] = "Product Specifications";
+}
+
+<h2 class="mb-3">Specifications for @ViewBag.ProductName</h2>
+
+<a asp-action="Create"
+   asp-route-productId="@ViewBag.ProductId"
+   class="btn btn-primary mb-3">
+    + Add Specification
+</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Group</th>
+            <th>Name</th>
+            <th style="width: 180px;">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var spec in Model)
+        {
+            <tr>
+                <td>@spec.GroupName</td>
+                <td>@spec.Name</td>
+                <td>
+                    <a asp-controller="ProductOptions"
+                       asp-action="Edit"
+                       asp-route-id="@spec.Id"
+                       class="btn btn-sm btn-warning">
+                        Edit
+                    </a>
+                    <a asp-controller="ProductOptions"
+                       asp-action="Delete"
+                       asp-route-id="@spec.Id"
+                       class="btn btn-sm btn-danger">
+                        Delete
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@if (!Model.Any())
+{
+    <div class="text-muted">No specifications added yet.</div>
+}   

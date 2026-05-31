@@ -1,0 +1,93 @@
+﻿@model ZinarCompany.Models.ContactMessage
+@{
+    ViewData["Title"] = "Contact";
+}
+
+<div class="container py-5 contact-page">
+    <div class="mb-4">
+        <h2 class="contact-title">Contact Zinar Company</h2>
+        <p class="text-muted mb-0">We’ll reply as soon as possible. You can also contact us directly on WhatsApp.</p>
+    </div>
+
+    @if (ViewBag.Success != null)
+    {
+        <div class="alert alert-success">
+            @ViewBag.Success
+        </div>
+    }
+
+    <div class="row g-4 align-items-stretch">
+
+        <!-- Left: Info + Map -->
+        <div class="col-md-5">
+            <div class="contact-card h-100">
+                <div class="d-flex align-items-center justify-content-between mb-2">
+                    <h5 class="mb-0">Get in touch</h5>
+                    <span class="contact-pill">Duhok</span>
+                </div>
+
+                <div class="contact-line">
+                    <div class="contact-label">Phone</div>
+                    <div class="contact-value">07504506608</div>
+                </div>
+
+                <div class="contact-map mt-3">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3191.278009030544!2d42.817347!3d36.883697!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4008f51864015927%3A0x6bb45d12a6e8f8d9!2zWklOQVIgQWx1bWludW0gJiBQVkMg2LLZhtin2LEg2KfZhNmF2YbZitmI2YUg2Ygg2KjZhNin2LPYqtmK2YM!5e0!3m2!1sen!2siq!4v1767910428299!5m2!1sen!2siq"
+                            width="100%"
+                            height="230"
+                            style="border:0;"
+                            loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade">
+                    </iframe>
+                </div>
+
+                <a href="https://wa.me/9647504506608"
+                   target="_blank"
+                   class="btn btn-success w-100 mt-3 contact-whatsapp">
+                    Chat on WhatsApp
+                </a>
+            </div>
+        </div>
+
+        <!-- Right: Form -->
+        <div class="col-md-7">
+            <div class="contact-card h-100">
+                <h5 class="mb-3">Send a message</h5>
+
+                <form asp-action="Index" method="post">
+                    <div class="row g-3">
+                        <div class="col-md-6">
+                            <label class="form-label">Name</label>
+                            <input asp-for="Name" class="form-control contact-input" />
+                        </div>
+
+                        <div class="col-md-6">
+                            <label class="form-label">Email</label>
+                            <input asp-for="Email" class="form-control contact-input" />
+                        </div>
+
+                        <div class="col-12">
+                            <label class="form-label">Subject</label>
+                            <input asp-for="Subject" class="form-control contact-input" />
+                        </div>
+
+                        <div class="col-12">
+                            <label class="form-label">Message</label>
+                            <textarea asp-for="Message" class="form-control contact-input" rows="6"></textarea>
+                        </div>
+
+                        <div class="col-12 d-flex gap-2 flex-wrap">
+                            <button type="submit" class="btn btn-primary px-4 contact-send">Send</button>
+
+                            <a class="btn btn-outline-secondary px-4"
+                               href="tel:07504506608">
+                                Call
+                            </a>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+    </div>
+</div>
